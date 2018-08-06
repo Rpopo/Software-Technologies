@@ -1,0 +1,28 @@
+p{
+  color: red;
+  text-align: center;
+  font-size: 30pt;
+
+}
+.inlineCont{
+  display: inline-block;
+}
+img{
+  margin: 1100px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+#Main-Pharagraph{
+   text-align: center;
+   color: #FF8c00;
+   font-size: 50pt;
+   border-radius: 25px;
+   border-bottom: 8px solid brown;
+ }
+.odd{
+  color: red;
+
+}
+.even{
+  color: blue;
+}
